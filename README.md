@@ -51,12 +51,11 @@ Analyze the sample dataset to:
 ---
 
 ## 📊 Dashboards
-
 ### Dashboard 1 – Customer & Spending Overview
-![Dashboard 1](./Customer%20%26%20spending%20overview.JPG)
+![Dashboard 1](./Dashboard%201.JPG)
 
 ### Dashboard 2 – Customer Spending Behavior Analysis
-![Dashboard 2](./Customer%20Spending%20Behavior.JPG)
+![Dashboard 2](./Dashboard%202.JPG)
 
 ---
 
