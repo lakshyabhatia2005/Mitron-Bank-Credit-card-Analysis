@@ -53,10 +53,10 @@ Analyze the sample dataset to:
 ## 📊 Dashboards
 
 ### Dashboard 1 – Customer & Spending Overview
-![Dashboard 1](./Customer___spending_overview.JPG)
+![Dashboard 1](./Customer%20%26%20spending%20overview.JPG)
 
 ### Dashboard 2 – Customer Spending Behavior Analysis
-![Dashboard 2](./Customer_Spending_Behavior.JPG)
+![Dashboard 2](./Customer%20Spending%20Behavior.JPG)
 
 ---
 
@@ -120,8 +120,8 @@ Analyze the sample dataset to:
 mitron-bank-credit-card-analysis/
 │
 ├── README.md
-├── Customer___spending_overview.JPG     # Customer & Spending Overview
-├── Customer_Spending_Behavior.JPG      # Spending Behavior Analysis
+├── Customer & spending overview.JPG     # Customer & Spending Overview
+├── Customer Spending Behavior.JPG       # Spending Behavior Analysis
 └── Mitron_Bank_Analysis.pbix   # Power BI file
 ```
 
