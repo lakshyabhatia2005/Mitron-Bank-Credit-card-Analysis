@@ -136,5 +136,3 @@ This project was built as part of a data analytics portfolio to demonstrate skil
 - Deriving actionable business recommendations from data
 
 ---
-
-> 📬 Feel free to connect with me on [LinkedIn](#) | ⭐ Star this repo if you found it useful!
